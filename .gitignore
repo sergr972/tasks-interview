@@ -1,6 +1,8 @@
-<<<<<<< HEAD
-*.class
+.idea
+out
+*.iml
+log
+lib
 
-=======
-/*.xml
->>>>>>> d9d8ed8 (add gitignore)
+target
+storage
