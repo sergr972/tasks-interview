@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 *.class
 
+=======
+/*.xml
+>>>>>>> d9d8ed8 (add gitignore)
