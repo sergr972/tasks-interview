@@ -1,4 +1,4 @@
-package main.java.nterview.tasks;
+package main.java.interview.tasks;
 
 import java.util.stream.Stream;
 
