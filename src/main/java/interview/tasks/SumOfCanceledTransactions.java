@@ -30,12 +30,6 @@ public class SumOfCanceledTransactions {
 
         // 13000 expected
         System.out.println(calcSumOfCanceledTransOnNonEmptyAccounts(Arrays.asList(a1, a2, a3)));
-
-
-        List<Integer> numbers = Arrays.asList(4, 5, 20);
-        long val = numbers.stream().map(Integer::longValue).reduce(1L, (acc, x) -> acc * x * x);
-        System.out.println(val);
-
     }
 }
 
