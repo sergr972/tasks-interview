@@ -1,3 +1,5 @@
+package src.main.java.interview.tasks;
+
 public class Central {
     public static void main(String[] args) {
         LinkedList linkedList = new LinkedList();
